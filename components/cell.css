@@ -1,0 +1,29 @@
+.grid-piece {
+    width: 9%;
+    height: 9%;
+    background-color: gray;
+    border: 2px solid black;
+}
+
+.ship-hit {
+    background-color: red;
+}
+.miss {
+    background-color: lightblue;
+}
+
+.has-ship {
+    background-color:darkblue;
+}
+
+.no-ship {
+    background-color: blueviolet;
+}
+
+.has-miss {
+    background-color: lightskyblue;
+}
+
+.no-miss {
+    background-color: coral;
+}
