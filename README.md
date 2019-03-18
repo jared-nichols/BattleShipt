@@ -5,7 +5,7 @@ Coding challenge for Shipt internship.
 App.js is the main the main file that I am running out of
 ```
 ### Items To Be Added:
-```
+
 * Make cells on gameboard react to click events
 * In first phase of game when placing ships, make sure pieces from same ship can only be placed next to each other
 * Display whose turn it is with alternating messages
@@ -13,4 +13,3 @@ App.js is the main the main file that I am running out of
 * Determing winner based on who guessed all ships first
 * Player VS Computer gamemode
 * Styling
-```
