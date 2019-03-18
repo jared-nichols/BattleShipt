@@ -13,3 +13,4 @@ App.js is the main the main file that I am running out of
 * Determing winner based on who guessed all ships first
 * Player VS Computer gamemode
 * Styling
+```
